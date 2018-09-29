@@ -1,2 +1,2 @@
 # Traning-Env
-This is the training  environment
+This is the DevOps training  environment
