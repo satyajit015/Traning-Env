@@ -1,0 +1,73 @@
+
+
+Initiall Setup
+-----------------------------------------------------------
+
+1) nstall git
+2) Setup github account
+
+
+
+git confin --gobal user.name ""
+git confin --gobal user.email ""
+git clone "https://github.com/satyajit015/DemoRepo.git"
+
+
+Command
+-----------------
+Review untracked file: git status 
+Adding new file: git add <file Name>
+Adding multiple file: git add -A
+Commit to branch: git commit -m "commit comments"
+Commit Mulitple file into branch: git commit -a -m "commit comments"
+Verify branch update: git log
+push change to Master: git push origin master
+Update the current enviroment: git pull origin master
+
+Revert changes
+	- commit hash	
+	- copy the first 8 hash dgiti hash 
+	- git checkou <8digit hash > and name of the file 
+	 Rollback: git checkout <8digit hash> <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Usefull Commmands
+------------------------------------------
+current directory => start .
+
+
+
+
+
+Example of git pull
+
+git init 
+output:  .git is created
+
+
+
+
+
+
+
+Create A repo
+Sync a report
+create a branch 
+merge a branch 
+Rebase
+Create a secure connection
+
+
+	
